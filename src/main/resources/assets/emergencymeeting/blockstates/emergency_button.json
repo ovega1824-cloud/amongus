@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "pressed=false": {
+      "model": "emergencymeeting:block/emergency_button"
+    },
+    "pressed=true": {
+      "model": "emergencymeeting:block/emergency_button_pressed"
+    }
+  }
+}

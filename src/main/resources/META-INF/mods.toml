@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="emergencymeeting"
+version="1.0.0"
+displayName="Emergency Meeting"
+description='''
+Botón de reunión de emergencia, tablet de administrador, laptop de colores y sistema de votación.
+Los jugadores en modo aventura son teletransportados, inmovilizados y votan a quién expulsar.
+'''
+
+[[dependencies.emergencymeeting]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.emergencymeeting]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

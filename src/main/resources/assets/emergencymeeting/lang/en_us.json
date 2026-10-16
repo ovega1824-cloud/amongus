@@ -1,0 +1,8 @@
+{
+  "block.emergencymeeting.emergency_button": "Emergency Button",
+  "item.emergencymeeting.admin_tablet": "Admin Tablet",
+  "item.emergencymeeting.color_laptop": "Color Laptop",
+  "itemGroup.emergencymeeting": "Emergency Meeting",
+  "key.emergencymeeting.tablet": "Open voting tablet",
+  "key.categories.emergencymeeting": "Emergency Meeting"
+}

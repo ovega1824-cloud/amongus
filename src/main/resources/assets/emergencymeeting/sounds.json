@@ -1,0 +1,11 @@
+{
+  "emergency_meeting": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "emergencymeeting:emergency_meeting",
+        "stream": false
+      }
+    ]
+  }
+}
